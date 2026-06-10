@@ -1,0 +1,1 @@
+# sigmenta-assets
